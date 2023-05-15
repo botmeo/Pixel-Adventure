@@ -1,7 +1,7 @@
 # Pixel-Adventure
 
 ## Description
-"Pixel Adventure" is a fast-paced 2D game where players control a lively frog to overcome obstacles, collect cherries, and reach the finish line. Test your agility and timing skills as you navigate through challenging levels in this exciting adventure
+Pixel Adventure is a fast-paced 2D game where players control a lively frog to overcome obstacles, collect cherries, and reach the finish line. Test your agility and timing skills as you navigate through challenging levels in this exciting adventure
 
 ## Gameplay
 <div style="display: flex; justify-content: space-between;">
